@@ -1,0 +1,3 @@
+class TestController < ApplicationRecord
+
+end
