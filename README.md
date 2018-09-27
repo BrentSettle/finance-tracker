@@ -1,5 +1,5 @@
 # README
-
+#its a whatever deal for this Ruby game
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
